@@ -1,0 +1,17 @@
+commande,
+IN;    // initialiser,
+PU;    // PEN UP,
+SP5;   // SELECT PEN,
+"PD5000,5000;    PEN DOWN",
+"PD5000,8000;",
+CI500;  // CIRCLE,rayon
+"EA1000,1000;     // RECTANGLE",
+"CI500,60;  //CIRCLE, rayon, angle segment"" 
+"FT4,50;RR500,500; // FILL TYPE, type, distance",
+IN;,
+IN;,
+IN;,
+"PU 100, 100;",
+"PU 100, 1000;",
+"PU200, 10000;",
+"PU 500, 10000;",
