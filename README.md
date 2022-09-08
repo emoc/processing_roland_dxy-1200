@@ -20,3 +20,7 @@ Afficher chaque mot d'une liste à des positions au hasard sur la feuille (/!\ a
 **plotter_teapot**
 
 Du pixel aux hachures, en utilisant les fonctions RD-GL adaptées.
+
+![utah teapot](./assets/utah_teapot.jpg?0)
+
+![utah teapot zoom](./assets/utah_teapot_zoom.jpg?0)
